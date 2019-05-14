@@ -1,2 +1,2 @@
-# Security-Soup
-This project covers research content and other resources.
+# Security-Links
+This project covers various links to research content and other resources.
